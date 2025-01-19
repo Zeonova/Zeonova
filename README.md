@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeonova)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeonova)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeonova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zeonova/Zeonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
